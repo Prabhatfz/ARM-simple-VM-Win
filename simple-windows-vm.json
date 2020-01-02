@@ -5,7 +5,7 @@
     "virtualMachineName": {
       "type": "string",
       "metadata": {
-        "description": "Name for the Virtual Machine"
+        "description": "Provide the Name for the Virtual Machine"
       }
     },
     "adminUsername": {
